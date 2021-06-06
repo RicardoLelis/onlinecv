@@ -1,0 +1,44 @@
+{
+    "Courses": [
+        {
+            "id": 0,
+            "name": "Learn JavaScript for free",
+            "courseProvider": "scrimba",
+            "courseProviderWebsite": "https://scrimba.com/",
+            "courseUrl": "https://scrimba.com/learn/learnjavascript",
+            "description": "Learn the basics of JavaScript by solving 140+ interactive coding challenges and building three fun projects.",
+            "courseTopics": [
+                "const & let",
+                "strings",
+                "numbers",
+                "booleans",
+                "objects",
+                "arrays",
+                "functions",
+                "methods",
+                "for loops",
+                "logical operators",
+                "mathematical operators",
+                "JSON",
+                "Math object",
+                "DOM manpulation",
+                "getElementById()",
+                "querySelector()",
+                "addEventListener()",
+                "innerText",
+                "textContent",
+                "innerHTML",
+                "conditional statements",
+                "truthy vs falsy values",
+                "template strings",
+                "localStorage",
+                "debugging with Google"
+            ],
+            "courseProjects": [
+                "Subway Passenger Counter",
+                "Blackjack Casino Game",
+                "Chrome Extension"
+            ]
+        }
+    ]
+}
